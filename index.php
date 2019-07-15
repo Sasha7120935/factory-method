@@ -58,7 +58,7 @@ class StandardModel implements Model
 {
     public function getModel()
     {
-        return "model shikoda";
+        return "model Skoda";
     }
 }
 class LuxuryModel implements Model
